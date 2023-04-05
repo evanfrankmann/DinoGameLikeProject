@@ -1,7 +1,7 @@
 # DinoGameLikeProject
 
-## Created: 4/5/2023
-## Last Update: 4/5/2023
+Created: 4/5/2023
+Last Update: 4/5/2023
 
 To play this game in a web browser:
 - Download the files
