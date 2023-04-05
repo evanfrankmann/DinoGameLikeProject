@@ -131,7 +131,6 @@ function restartGame() {
     elapsedTime = 0;
 
     // Restart game loop and obstacle generation
-    generateObstacle();
     gameLoop();
 }
 
